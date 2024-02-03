@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.5ef9ae76.css",
-    "main.js": "./static/js/main.920fc4e1.js",
-    "static/js/787.a12f7dc5.chunk.js": "./static/js/787.a12f7dc5.chunk.js",
+    "main.css": "./static/css/main.cdb6ad0d.css",
+    "main.js": "./static/js/main.55d975b5.js",
+    "static/js/787.d7f7c46c.chunk.js": "./static/js/787.d7f7c46c.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/shoes.jpg": "./static/media/shoes.6a6f812a621ee4cf1798.jpg",
     "static/media/404.jpg": "./static/media/404.a9c460af0e0968e8c8aa.jpg",
     "static/media/port1.png": "./static/media/port1.4417330275f78faa31c3.png",
+    "static/media/tomatto.jpg": "./static/media/tomatto.3541e7f20f84b0a499bd.jpg",
     "static/media/port3.png": "./static/media/port3.494a4a914b5471b41f3e.png",
     "static/media/port2.png": "./static/media/port2.6554473016d32b343f02.png",
     "static/media/avatars.svg": "./static/media/avatars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
     "index.html": "./index.html",
-    "main.5ef9ae76.css.map": "./static/css/main.5ef9ae76.css.map",
-    "main.920fc4e1.js.map": "./static/js/main.920fc4e1.js.map",
-    "787.a12f7dc5.chunk.js.map": "./static/js/787.a12f7dc5.chunk.js.map"
+    "main.cdb6ad0d.css.map": "./static/css/main.cdb6ad0d.css.map",
+    "main.55d975b5.js.map": "./static/js/main.55d975b5.js.map",
+    "787.d7f7c46c.chunk.js.map": "./static/js/787.d7f7c46c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ef9ae76.css",
-    "static/js/main.920fc4e1.js"
+    "static/css/main.cdb6ad0d.css",
+    "static/js/main.55d975b5.js"
   ]
 }
